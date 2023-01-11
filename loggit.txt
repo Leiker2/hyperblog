@@ -1,0 +1,29 @@
+commit 3b1073235e9fccdfa98a1d1fa3ab854132bdfce1
+Author: leikerdgs <leiker.dgs@gmail.com>
+Date:   Wed Jan 11 13:18:13 2023 -0400
+
+    cambio de maestría
+
+commit 1935033636694c625da8ca590f36354b15ef7e92
+Author: leikerdgs <leiker.dgs@gmail.com>
+Date:   Wed Jan 11 13:17:51 2023 -0400
+
+    cambio de vida
+
+commit 0457e928ce6e51ef1f342d8ca0c152ac36602c17
+Author: leikerdgs <leiker.dgs@gmail.com>
+Date:   Wed Jan 11 13:16:37 2023 -0400
+
+    Comienzo mi proyecto real
+
+commit d84dcaf3e9a2a6d3630cc5c6d2435e22e5e78ffd
+Author: leikerdgs <leiker.dgs@gmail.com>
+Date:   Wed Jan 11 11:56:39 2023 -0400
+
+    cambios al archivo
+
+commit 1808eb0b88809d3b1765e01ccf9fd22a1c2de6c2
+Author: leikerdgs <leiker.dgs@gmail.com>
+Date:   Wed Jan 11 11:47:51 2023 -0400
+
+    Este es el primer Commit del archivo
