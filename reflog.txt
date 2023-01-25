@@ -1,0 +1,108 @@
+7683149 HEAD@{0}: reset: moving to HEAD@{4}
+e29f9bd HEAD@{1}: commit: lksjfsjdlkfjsdkljflksjdf
+7216628 HEAD@{2}: cherry-pick: creditos al team
+7683149 HEAD@{3}: checkout: moving from readme.mejorado to main
+3b771cb HEAD@{4}: checkout: moving from main to readme.mejorado
+7683149 HEAD@{5}: checkout: moving from readme.mejorado to main
+3b771cb HEAD@{6}: checkout: moving from main to readme.mejorado
+7683149 HEAD@{7}: checkout: moving from readme.mejorado to main
+3b771cb HEAD@{8}: commit: diverso y atractivo para todos
+40f29c7 HEAD@{9}: commit: incluye
+4066aaa HEAD@{10}: commit: creditos al team
+7683149 HEAD@{11}: checkout: moving from main to readme.mejorado
+7683149 HEAD@{12}: reset: moving to HEAD
+7683149 HEAD@{13}: commit: este es una prueba que hice con stash
+8acbd18 HEAD@{14}: reset: moving to HEAD
+8acbd18 HEAD@{15}: checkout: moving from fix-typo to main
+f86e379 HEAD@{16}: checkout: moving from main to fix-typo
+8acbd18 HEAD@{17}: reset: moving to HEAD
+8acbd18 HEAD@{18}: commit: Archivo Readme.md modificado
+30d960f HEAD@{19}: commit: agregué una imagen al blog
+ae3bbd5 HEAD@{20}: checkout: moving from cabecera to main
+ea25d3d HEAD@{21}: checkout: moving from main to cabecera
+ae3bbd5 HEAD@{22}: pull origin main: Fast-forward
+4d2b63e HEAD@{23}: checkout: moving from fix-typo to main
+f86e379 HEAD@{24}: commit: Agregando una rama para arreglar errores
+4d2b63e HEAD@{25}: checkout: moving from main to fix-typo
+4d2b63e HEAD@{26}: commit (merge): Merge branch 'footer' into main
+7abd74f HEAD@{27}: commit (merge): Merge branch 'header' into main
+f518de8 HEAD@{28}: checkout: moving from footer to main
+296a370 HEAD@{29}: commit: Montando el footer para hacer merge
+ea25d3d HEAD@{30}: checkout: moving from main to footer
+f518de8 HEAD@{31}: checkout: moving from footer to main
+ea25d3d HEAD@{32}: checkout: moving from header to footer
+f6c1532 HEAD@{33}: commit: subiendo el header nuevo
+de87722 HEAD@{34}: commit: logo del header
+ea25d3d HEAD@{35}: checkout: moving from cabecera to header
+ea25d3d HEAD@{36}: checkout: moving from main to cabecera
+f518de8 HEAD@{37}: checkout: moving from cabecera to main
+ea25d3d HEAD@{38}: checkout: moving from main to cabecera
+f518de8 HEAD@{39}: commit: Este es un nuevo commit pero con titulo nuevo para probar la conexion SSH
+bae488f HEAD@{40}: commit: una version de el hyperblog con SSH
+c37e87e HEAD@{41}: commit: Agregando cosas para el segundo push a git hub
+df38bbc HEAD@{42}: pull origin main: Fast-forward
+4a176b1 HEAD@{43}: pull origin main --allow-unrelated-histories: Merge made by the 'recursive' strategy.
+62d0abe HEAD@{44}: Branch: renamed refs/heads/master to refs/heads/main
+62d0abe HEAD@{46}: merge cabecera: Merge made by the 'recursive' strategy.
+ab515e3 HEAD@{47}: checkout: moving from cabecera to master
+ea25d3d HEAD@{48}: commit: Este es el commit del tercer merge
+442f32f HEAD@{49}: checkout: moving from master to cabecera
+ab515e3 HEAD@{50}: checkout: moving from cabecera to master
+442f32f HEAD@{51}: checkout: moving from master to cabecera
+ab515e3 HEAD@{52}: commit (merge): Montando el último merge
+9642aff HEAD@{53}: checkout: moving from cabecera to master
+442f32f HEAD@{54}: commit: Subiendo una nueva actualizacion, segundo merge
+c144be9 HEAD@{55}: checkout: moving from master to cabecera
+9642aff HEAD@{56}: checkout: moving from cabecera to master
+c144be9 HEAD@{57}: checkout: moving from master to cabecera
+9642aff HEAD@{58}: checkout: moving from cabecera to master
+c144be9 HEAD@{59}: checkout: moving from master to cabecera
+9642aff HEAD@{60}: checkout: moving from cabecera to master
+c144be9 HEAD@{61}: checkout: moving from master to cabecera
+9642aff HEAD@{62}: checkout: moving from cabecera to master
+c144be9 HEAD@{63}: checkout: moving from master to cabecera
+9642aff HEAD@{64}: checkout: moving from cabecera to master
+c144be9 HEAD@{65}: checkout: moving from master to cabecera
+9642aff HEAD@{66}: checkout: moving from cabecera to master
+c144be9 HEAD@{67}: checkout: moving from master to cabecera
+9642aff HEAD@{68}: commit: Acomodando el css luego del merge
+205a458 HEAD@{69}: commit (merge): Intentando arreglar
+0355546 HEAD@{70}: checkout: moving from cabecera to master
+c144be9 HEAD@{71}: checkout: moving from master to cabecera
+0355546 HEAD@{72}: checkout: moving from cabecera to master
+c144be9 HEAD@{73}: checkout: moving from master to cabecera
+0355546 HEAD@{74}: commit: Agregando el contenido al final del blog y una mejor tipografía
+bb00e72 HEAD@{75}: checkout: moving from cabecera to master
+c144be9 HEAD@{76}: checkout: moving from master to cabecera
+bb00e72 HEAD@{77}: checkout: moving from cabecera to master
+c144be9 HEAD@{78}: commit: Finalizada la cabecera con diseño azul
+1412991 HEAD@{79}: checkout: moving from master to cabecera
+bb00e72 HEAD@{80}: checkout: moving from cabecera to master
+1412991 HEAD@{81}: checkout: moving from master to cabecera
+bb00e72 HEAD@{82}: checkout: moving from cabecera to master
+1412991 HEAD@{83}: checkout: moving from master to cabecera
+bb00e72 HEAD@{84}: checkout: moving from cabecera to master
+1412991 HEAD@{85}: checkout: moving from master to cabecera
+bb00e72 HEAD@{86}: checkout: moving from cabecera to master
+1412991 HEAD@{87}: checkout: moving from master to cabecera
+bb00e72 HEAD@{88}: checkout: moving from cabecera to master
+1412991 HEAD@{89}: commit: Agregando el commit cabecera
+bb00e72 HEAD@{90}: checkout: moving from master to cabecera
+bb00e72 HEAD@{91}: commit: Ya vi mi error, y ahora si estoy montando mi commit del blog
+3b10732 HEAD@{92}: checkout: moving from 1935033636694c625da8ca590f36354b15ef7e92 to master
+1935033 HEAD@{93}: checkout: moving from master to 1935033636694c625da8ca590f36354b15ef7e92
+3b10732 HEAD@{94}: checkout: moving from d84dcaf3e9a2a6d3630cc5c6d2435e22e5e78ffd to master
+d84dcaf HEAD@{95}: checkout: moving from master to d84dcaf3e9a2a6d3630cc5c6d2435e22e5e78ffd
+3b10732 HEAD@{96}: checkout: moving from master to master
+3b10732 HEAD@{97}: checkout: moving from 1808eb0b88809d3b1765e01ccf9fd22a1c2de6c2 to master
+1808eb0 HEAD@{98}: checkout: moving from 305d8338b4c17acb3e1086982fe36921c37aaf4e to 1808eb0
+305d833 HEAD@{99}: commit: actualizando la historia
+a347663 HEAD@{100}: commit: Volví a montar, la cagué y borré todo
+1808eb0 HEAD@{101}: checkout: moving from master to 1808eb0b88809d3b1765e01ccf9fd22a1c2de6c2
+3b10732 HEAD@{102}: commit: cambio de maestría
+1935033 HEAD@{103}: commit: cambio de vida
+0457e92 HEAD@{104}: commit: Comienzo mi proyecto real
+d84dcaf HEAD@{105}: reset: moving to d84dcaf3e9a2a6d3630cc5c6d2435e22e5e78ffd
+15bd77e HEAD@{106}: commit: Agregué unas lineas
+d84dcaf HEAD@{107}: commit: cambios al archivo
+1808eb0 HEAD@{108}: commit (initial): Este es el primer Commit del archivo
