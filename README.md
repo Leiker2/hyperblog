@@ -32,3 +32,4 @@ En este curso vemos de todo:
 - El flujo de trabajo en GitHub
 - El verdadero amor por las buenas prácticas
 - Trucos muy locos
+- Creado por el incleible Leikerson
